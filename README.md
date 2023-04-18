@@ -15,3 +15,4 @@
 * [tidyverse packages](https://www.tidyverse.org/), including [dplyr](https://dplyr.tidyverse.org/), [ggplot2](https://ggplot2.tidyverse.org/), [readr](https://readr.tidyverse.org/), [stringr](https://stringr.tidyverse.org/), and [tidyr](https://tidyr.tidyverse.org/): Read files, process data, and create visualizations
 * [usmap](https://usmap.dev/): Create chloropleth maps of the United States (including Alaska and Hawaii) as ggplot objects
 * [scales](https://scales.r-lib.org/): "tools to override the default breaks, labels, transformations and palettes" in ggplot2 (e.g., commas in labels)
+* [patchwork](https://patchwork.data-imaginist.com/): "to make it ridiculously simple to combine separate ggplots into the same graphic"
