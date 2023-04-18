@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fcodeberg.org%2Fethan%2FNJLEND/HEAD)
+> Have a repository full of Jupyter notebooks? With Binder, open those notebooks in an executable environment, making your code immediately reproducible by anyone, anywhere.
+
 # Data sources
 * [CMS Program Statistics - Original Medicare Enrollment](https://data.cms.gov/summary-statistics-on-beneficiary-enrollment/medicare-and-medicaid-reports/cms-program-statistics-original-medicare-enrollment) (Centers for Medicare and Medicaid Services)
     * Years available as of April 2023: 2013 to 2021 (annual)
