@@ -1,0 +1,13 @@
+Year,Bene_Geo_Lvl,Bene_Geo_Desc,Bene_Geo_Cd,Bene_Age_Lvl,Bene_Demo_Lvl,Bene_Demo_Desc,Bene_Cond,Prvlnc,Tot_Mdcr_Stdzd_Pymt_PC,Tot_Mdcr_Pymt_PC,Hosp_Readmsn_Rate,ER_Visits_Per_1000_Benes
+2007,National,National,NA,All,All,All,Autism Spectrum Disorders,7.0E-4,6314.9883,6663.0153,0.2201,928.3394
+2008,National,National,NA,All,All,All,Autism Spectrum Disorders,8.0E-4,6863.7667,7278.5115,0.2199,988.1677
+2009,National,National,NA,All,All,All,Autism Spectrum Disorders,9.0E-4,7277.7223,7826.6953,0.2268,1026.9667
+2010,National,National,NA,All,All,All,Autism Spectrum Disorders,0.0011,7351.1844,7883.6462,0.2099,1015.3343
+2011,National,National,NA,All,All,All,Autism Spectrum Disorders,0.0012,7406.3283,8054.688,0.2045,1062.8961
+2012,National,National,NA,All,All,All,Autism Spectrum Disorders,0.0013,7486.1907,8070.6526,0.2055,1083.1767
+2013,National,National,NA,All,All,All,Autism Spectrum Disorders,0.0015,7337.4313,7877.9333,0.2057,1069.5671
+2014,National,National,NA,All,All,All,Autism Spectrum Disorders,0.0017,7375.3436,8076.2728,0.2029,1103.5497
+2015,National,National,NA,All,All,All,Autism Spectrum Disorders,0.0019,7683.254,8370.0486,0.2104,1138.0964
+2016,National,National,NA,All,All,All,Autism Spectrum Disorders,0.0021,7813.9276,8561.0506,0.21,1137.4099
+2017,National,National,NA,All,All,All,Autism Spectrum Disorders,0.0024,8021.0759,8778.6974,0.2178,1152.2061
+2018,National,National,NA,All,All,All,Autism Spectrum Disorders,0.0026,8115.9665,8893.6594,0.2089,1153.1763
