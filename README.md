@@ -12,6 +12,6 @@
 3. Office of Enterprise Data and Analytics. (2020, November). *Chronic conditions among Medicare beneficiaries: A methodological overview.* U.S. Department of Health and Human Services, Centers for Medicare and Medicaid Services. [https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Chronic-Conditions/Downloads/Methods_Overview.pdf](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Chronic-Conditions/Downloads/Methods_Overview.pdf)
 
 # R packages
-* [tidyverse packages](https://www.tidyverse.org/), including [dplyr](https://dplyr.tidyverse.org/), [ggplot2](https://ggplot2.tidyverse.org/), [readr](https://readr.tidyverse.org/), and [tidyr](https://tidyr.tidyverse.org/): Read files, process data, and create visualizations
+* [tidyverse packages](https://www.tidyverse.org/), including [dplyr](https://dplyr.tidyverse.org/), [ggplot2](https://ggplot2.tidyverse.org/), [readr](https://readr.tidyverse.org/), [stringr](https://stringr.tidyverse.org/), and [tidyr](https://tidyr.tidyverse.org/): Read files, process data, and create visualizations
 * [usmap](https://usmap.dev/): Create chloropleth maps of the United States (including Alaska and Hawaii) as ggplot objects
 * [scales](https://scales.r-lib.org/): "tools to override the default breaks, labels, transformations and palettes" in ggplot2 (e.g., commas in labels)
