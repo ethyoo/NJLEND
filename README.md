@@ -36,3 +36,6 @@
 * [Global Burden of Disease](https://www.healthdata.org/results/gbd_summaries/2019/autism-spectrum-disorders-level-3-cause) (Institute for Health Metrics and Evaluation [IMHE])
 * [Medicare Chronic Conditions Dashboards](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Chronic-Conditions/CCDashboard) (Centers for Medicare and Medicaid Services [CMS])
 * [Mapping Medicare disparities by population](https://data.cms.gov/tools/mapping-medicare-disparities-by-population) (Centers for Medicare and Medicaid Services [CMS])
+
+# License
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [https://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/).
